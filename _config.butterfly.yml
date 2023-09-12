@@ -30,11 +30,13 @@ highlight_height_limit: 200 # unit: px
 code_word_wrap: true
 
 # Social Settings (社交圖標設置)
+# form https://fontawesome.com/icons
 # formal:
 #   icon: link || the description || color
 social:
-   fab fa-github: https://github.com/FelixDai || Github || '#24292e'
-   fas fa-envelope: mailto:dai@cosmopeace.com || Email || '#4a7dbe'
+   fa-brands fa-github-alt: https://github.com/FelixDai || Github || '#24292e'
+   fa-solid fa-envelope: mailto:dai@cosmopeace.com || Business Email || '#4a7dbe'
+   fa-regular fa-envelope: mailto:phoenixdai@foxmail.com || Common Email || '#4a7dbe'
 
 # Image (圖片設置)
 # --------------------------------------
