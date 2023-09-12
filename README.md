@@ -1,1 +1,3 @@
-# A source code repository of github pages
+# Source Repository of GitHub Pages
+
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
