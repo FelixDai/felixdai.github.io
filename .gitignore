@@ -10,3 +10,5 @@ public/
 
 # Jetbrains IDEs output
 .idea
+
+yarn.lock
