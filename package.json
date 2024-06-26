@@ -7,7 +7,8 @@
     "clean": "hexo clean",
     "deploy": "hexo deploy",
     "server": "hexo server",
-    "commit": "cz"
+    "commit": "cz",
+    "version": "conventional-changelog -p angular -i CHANGELOG.md -s && git add CHANGELOG.md"
   },
   "hexo": {
     "version": "6.3.0"
@@ -31,6 +32,7 @@
   },
   "devDependencies": {
     "commitizen": "^4.3.0",
+    "conventional-changelog-cli": "^5.0.0",
     "cz-conventional-changelog": "^3.3.0"
   },
   "config": {
